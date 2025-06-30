@@ -1,9 +1,6 @@
 # Grayscale_Ensemble
 Repository for the corresponding paper on grayscale-domain obfuscation identification
 
-## Authors: Sebastian Raubitzek, Sebastian Schrittwieser 
-Date: 30 June 2025
-
 ## Overview
 This repository implements a complete pipeline that
 
