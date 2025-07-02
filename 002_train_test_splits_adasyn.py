@@ -60,7 +60,6 @@ Version history
 
 Author
 ------
-Sebastian Raubitzek
 Date: 30 June 2025
 """
 
