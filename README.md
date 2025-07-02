@@ -52,6 +52,6 @@ The code is tested with **Python 3.9** and the package versions below:
 - seaborn ≥ 0.12
 - matplotlib ≥ 3.6
 
-## Repository Structure
+## Data
 
 The data is compressed and collected in the corresponding archive.z*-zip files.
