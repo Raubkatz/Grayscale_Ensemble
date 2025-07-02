@@ -40,7 +40,6 @@ Outputs
 
 Author
 ------
-Sebastian Raubitzek – ExtraTrees batch trainer
 Date: 30 June 2025
 """
 
