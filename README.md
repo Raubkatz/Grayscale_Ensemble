@@ -41,14 +41,20 @@ The workflow is fully script-driven; no notebook interaction is required.
 | **func_SVD_metrics.py** | Contains the 18 metric implementations (6 baseline + 12 additional) used by script 001. | imported module |
 
 ### Prerequisites
-The code is tested with **Python 3.9** and the package versions below:
+The code is tested with **Python 3.13.3** and the package versions below:
 
 numpy	2.2.6
+
 pandas	2.2.3
+
 scikit-learn	1.5.0
+
 imbalanced-learn	0.13.0
+
 scikit-optimize	0.10.2
+
 matplotlib	3.10.3
+
 seaborn	0.13.2
 
 ## Data
