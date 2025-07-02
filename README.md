@@ -29,9 +29,6 @@ The workflow is fully script-driven; no notebook interaction is required.
 
 └── README.md # this file
 
-markdown
-Kopieren
-Bearbeiten
 
 ### Script Summaries
 | Script | Purpose | Key Outputs |
@@ -54,3 +51,7 @@ The code is tested with **Python 3.9** and the package versions below:
 - scipy ≥ 1.8
 - seaborn ≥ 0.12
 - matplotlib ≥ 3.6
+
+## Repository Structure
+
+The data is compressed and collected in the corresponding archive.z*-zip files.
