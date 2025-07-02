@@ -43,14 +43,13 @@ The workflow is fully script-driven; no notebook interaction is required.
 ### Prerequisites
 The code is tested with **Python 3.9** and the package versions below:
 
-- pandas ≥ 1.3
-- numpy ≥ 1.21
-- scikit-learn ≥ 1.3
-- imbalanced-learn ≥ 0.11
-- scikit-optimize ≥ 0.9
-- scipy ≥ 1.8
-- seaborn ≥ 0.12
-- matplotlib ≥ 3.6
+numpy	2.2.6
+pandas	2.2.3
+scikit-learn	1.5.0
+imbalanced-learn	0.13.0
+scikit-optimize	0.10.2
+matplotlib	3.10.3
+seaborn	0.13.2
 
 ## Data
 
